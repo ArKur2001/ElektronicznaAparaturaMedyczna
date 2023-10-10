@@ -1,2 +1,7 @@
-1
+1. Teoretyczne obliczenia i praktyczny efekt są takie same dlaniskich czestotliwości.
+2. Output dynamic range jest skorelowany z zasilaniem w idealnym wzmacniaczu.
+3. Gain = 1.
+4. Offset na wyjściu wynosi -5mV dla 0V na wejściu ponieważ napiecie niezrównoważenia wynosie 5mV, i jest ono takie samo jak nie zrównowazenia bo układ jest wtórnikiem.
+5. Slew rate ok. 13V/us.
+6. Pasmo pozostanie bez zmian.
 
